@@ -137,3 +137,209 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts|User-Age
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVISTAR", TCM HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts|User-Agent=cp_9191
+
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="MOVISTAR OP1" ",Dazn 1
+https://blackghost.live/play/lookplay-330.php?name=movistar_dazn_1&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Dazn 2
+https://blackghost.live/play/lookplay-330.php?name=movistar_dazn_2&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Dazn 3
+https://blackghost.live/play/lookplay-330.php?name=dazn_3&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Dazn 4
+https://blackghost.live/play/lookplay-330.php?name=dazn_4&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="LA1.es" group-title="MOVISTAR OP1" ",La 1
+https://blackghost.live/play/lookplay-330.php?name=la_1&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="LA2.es" group-title="MOVISTAR OP1" ",La 2
+https://blackghost.live/play/lookplay-330.php?name=la_2&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Antena3.es" group-title="MOVISTAR OP1" ",Antena 3
+https://blackghost.live/play/lookplay-330.php?name=antena_3&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Cuatro.es" group-title="MOVISTAR OP1" ",Cuatro
+https://blackghost.live/play/lookplay-330.php?name=cuatro&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Telecinco.es" group-title="MOVISTAR OP1" ",Telecinco
+https://blackghost.live/play/lookplay-330.php?name=telecinco&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="MOVISTAR OP1" ",La Sexta
+https://blackghost.live/play/lookplay-330.php?name=la_sexta&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="DMAX.es" group-title="MOVISTAR OP1" ",Dmax
+https://blackghost.live/play/lookplay-330.php?name=dmax&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Neox.es" group-title="MOVISTAR OP1" ",Neox
+https://blackghost.live/play/lookplay-330.php?name=neox&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Nova.es" group-title="MOVISTAR OP1" ",Nova
+https://blackghost.live/play/lookplay-330.php?name=nova&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Energy.es" group-title="MOVISTAR OP1" ",Energy
+https://blackghost.live/play/lookplay-330.php?name=energy&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="MOVISTAR OP1" ",CLAN
+https://blackghost.live/play/lookplay-330.php?name=clan&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="MOVISTAR OP1" ",Disney Channel
+https://blackghost.live/play/lookplay-330.php?name=disney_channel&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="FDF.es" group-title="MOVISTAR OP1" ",FDF
+https://blackghost.live/play/lookplay-330.php?name=fdf&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Boing.es" group-title="MOVISTAR OP1" ",Boing
+https://blackghost.live/play/lookplay-330.php?name=boing&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Divinity.es" group-title="MOVISTAR OP1" ",Divinity
+https://blackghost.live/play/lookplay-330.php?name=divinity&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Mega.es" group-title="MOVISTAR OP1" ",Mega
+https://blackghost.live/play/lookplay-330.php?name=mega&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Atreseries.es" group-title="MOVISTAR OP1" ",Atreseries
+https://blackghost.live/play/lookplay-330.php?name=atreseries&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Paramount.es" group-title="MOVISTAR OP1" ",Paramount Channel
+https://blackghost.live/play/lookplay-330.php?name=paramount_channel&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="MOVISTAR OP1" ",Teledeporte
+https://blackghost.live/play/lookplay-330.php?name=teledeporte&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Ten.es" group-title="MOVISTAR OP1" ",TEN
+https://blackghost.live/play/lookplay-330.php?name=ten&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="DKISS.es" group-title="MOVISTAR OP1" ",DKiss
+https://blackghost.live/play/lookplay-330.php?name=dkiss&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="BEMAD.es" group-title="MOVISTAR OP1" ",Be Mad
+https://blackghost.live/play/lookplay-330.php?name=be_mad&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="MOVISTAR OP1" ",Real Madrid TV
+https://blackghost.live/play/lookplay-330.php?name=real_madrid_tv&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="GOL.es" group-title="MOVISTAR OP1" ",Gol TV
+https://blackghost.live/play/lookplay-330.php?name=gol_tv&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="MOVISTAR OP1" ",Movistar Series
+https://blackghost.live/play/lookplay-330.php?name=movistar_series&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar Seriesmanias
+https://blackghost.live/play/lookplay-330.php?name=movistar_seriesmania&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Fox.es" group-title="MOVISTAR OP1" ",Fox
+https://blackghost.live/play/lookplay-330.php?name=fox&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="AXNhd.es" group-title="MOVISTAR OP1" ",AXN
+https://blackghost.live/play/lookplay-330.php?name=axn&file=.m3u8
+#EXTINF:0 tvg-id="TNT.es" group-title="MOVISTAR OP1" ",TNT
+https://blackghost.live/play/lookplay-330.php?name=tnt&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="MOVISTAR OP1" ",Comedy Central
+https://blackghost.live/play/lookplay-330.php?name=comedy_central&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Calle13.es" group-title="MOVISTAR OP1" ",Calle 13
+https://blackghost.live/play/lookplay-330.php?name=calle_13&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="MOVISTAR OP1" ",Cosmo
+https://blackghost.live/play/lookplay-330.php?name=cosmo&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="AMC.es" group-title="MOVISTAR OP1" ",AMC
+https://blackghost.live/play/lookplay-330.php?name=amc&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="AXNhd.es" group-title="MOVISTAR OP1" ",AXN
+https://blackghost.live/play/lookplay-330.php?name=axn_white&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Scifi.es" group-title="MOVISTAR OP1" ",SYFY
+https://blackghost.live/play/lookplay-330.php?name=syfy&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="MOVISTAR OP1" ",MTV
+https://blackghost.live/play/lookplay-330.php?name=mtv&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="XTRM.es" group-title="MOVISTAR OP1" ",XTRM
+https://blackghost.live/play/lookplay-330.php?name=xtrm&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Dark.es" group-title="MOVISTAR OP1" ",Dark
+https://blackghost.live/play/lookplay-330.php?name=dark&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Canal Somos
+https://blackghost.live/play/lookplay-330.php?name=somos&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Canal # 0
+https://blackghost.live/play/lookplay-330.php?name=0&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="MOVISTAR OP1" ",Movistar Estrenos
+https://blackghost.live/play/lookplay-330.php?name=movistar_estrenos&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Disney +
+https://blackghost.live/play/lookplay-330.php?name=disney_&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar Cine Doc &Roll
+https://blackghost.live/play/lookplay-330.php?name=movistar_cinedocroll&file=.m3u8
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="MOVISTAR OP1" ",Movistar Accion
+https://blackghost.live/play/lookplay-330.php?name=movistar_accion&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="MOVISTAR OP1" ",Movistar Comedia
+https://blackghost.live/play/lookplay-330.php?name=movistar_comedia&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CanalPlusDCine.sp" group-title="MOVISTAR OP1" ",Movistar Drama
+https://blackghost.live/play/lookplay-330.php?name=movistar_drama&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Cine Espanol
+https://blackghost.live/play/lookplay-330.php?name=movistar_cine_espanol&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Hollywood.es" group-title="MOVISTAR OP1" ",Hollywood
+https://blackghost.live/play/lookplay-330.php?name=hollywood&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="TCM.sp" group-title="MOVISTAR OP1" ",TCM
+https://blackghost.live/play/lookplay-330.php?name=tcm&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="MLigaCampeones.es" group-title="MOVISTAR OP1" ",Movistar Liga de Campeones
+https://blackghost.live/play/lookplay-330.php?name=movistar_liga_de_campeones&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="MovistarLDC1.es" group-title="MOVISTAR OP1" ",Movistar Liga de Campeones 1
+https://blackghost.live/play/lookplay-330.php?name=movistar_liga_de_campeones_1&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="MovistarLDC2.es" group-title="MOVISTAR OP1" ",Movistar Liga de Campeones 2
+https://blackghost.live/play/lookplay-330.php?name=movistar_liga_de_campeones_2&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar La Liga
+https://blackghost.live/play/lookplay-330.php?name=movistar_laliga&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar Liga 1
+https://blackghost.live/play/lookplay-330.php?name=movistar_laliga_1&file=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar  Liga 2
+https://blackghost.live/play/lookplay-330.php?name=movistar_laliga_2&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar Liga 3
+https://blackghost.live/play/lookplay-330.php?name=movistar_laliga_3&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Movistar La Liga Opción 2
+https://blackghost.live/play/lookplay-330.php?name=movistar_laliga_opc2&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Vamos.es" group-title="MOVISTAR OP1" ",Vamos
+https://blackghost.live/play/lookplay-330.php?name=vamos&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="MOVISTAR OP1" ",Movistar Deportes
+https://blackghost.live/play/lookplay-330.php?name=movistar_deportes&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Golf.es" group-title="MOVISTAR OP1" ",Movistar Golf
+https://blackghost.live/play/lookplay-330.php?name=movistar_golf&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",DAZN F1
+https://blackghost.live/play/lookplay-330.php?name=dazn_f1&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="MOVISTAR OP1" ",Eurosport
+https://blackghost.live/play/lookplay-330.php?name=eurosport&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="MOVISTAR OP1" ",Eurosport 2
+https://blackghost.live/play/lookplay-330.php?name=eurosport_2&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="MOVISTAR OP1" ",Caza y Pesca
+https://blackghost.live/play/lookplay-330.php?name=caza_y_pesca&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="MOVISTAR OP1" ",Toros TV
+https://blackghost.live/play/lookplay-330.php?name=toros_tv&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="BabyTV.es" group-title="MOVISTAR OP1" ",Baby TV
+https://blackghost.live/play/lookplay-330.php?name=baby_tv&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Panda.es" group-title="MOVISTAR OP1" ",Canal Panda
+https://blackghost.live/play/lookplay-330.php?name=canal_panda&file=.m3u8
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="MOVISTAR OP1" ",Disney  Junior
+https://blackghost.live/play/lookplay-330.php?name=disney_junior&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="MOVISTAR OP1" ",Nickelodeon
+https://blackghost.live/play/lookplay-330.php?name=nickelodeon&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="NickJunior.es" group-title="MOVISTAR OP1" ",Nick JR
+https://blackghost.live/play/lookplay-330.php?name=nick_jr&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",DreamWorks
+https://blackghost.live/play/lookplay-330.php?name=dreamwork&file=.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="MOVISTAR OP1" ",National Geographic Channel
+https://blackghost.live/play/lookplay-330.php?name=national_geographic_channel&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="MOVISTAR OP1" ",National Geographic Wild
+https://blackghost.live/play/lookplay-330.php?name=national_geographic_wild&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Historia.es" group-title="MOVISTAR OP1" ",Historia
+https://blackghost.live/play/lookplay-330.php?name=historia&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="discov_rus" group-title="MOVISTAR OP1" ",Discovery Chanel
+https://blackghost.live/play/lookplay-330.php?name=discovery_channel&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Odisea.es" group-title="MOVISTAR OP1" ",Odisea
+https://blackghost.live/play/lookplay-330.php?name=odisea&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Blaze.es" group-title="MOVISTAR OP1" ",Blaze
+https://blackghost.live/play/lookplay-330.php?name=blaze&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Viajar.es" group-title="MOVISTAR OP1" ",Viajar
+https://blackghost.live/play/lookplay-330.php?name=viajar&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Crimen Investigaci\u00f3n
+https://blackghost.live/play/lookplay-330.php?name=crimen_investigacion&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" ",Casa y Cocina
+https://blackghost.live/play/lookplay-330.php?name=canal_cocina&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Decasa.es" group-title="MOVISTAR OP1" ",De Casa
+https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" ",IBERALIA
+https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8|User-Agent=lookplay
+
+://blackghost.live/play/lookplay-330.php?name=canal_cocina&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Decasa.es" group-title="MOVISTAR OP1" ",De Casa
+https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" ",IBERALIA
+https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8
+
+tle="MOVISTAR OP1" user-agent="lookplay",Historia
+https://blackghost.live/play/lookplay-330.php?name=historia&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="discov_rus" group-title="MOVISTAR OP1" user-agent="lookplay",Discovery Chanel
+https://blackghost.live/play/lookplay-330.php?name=discovery_channel&file=.m3u8
+#EXTINF:0 tvg-id="Odisea.es" group-title="MOVISTAR OP1" user-agent="lookplay",Odisea
+https://blackghost.live/play/lookplay-330.php?name=odisea&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Blaze.es" group-title="MOVISTAR OP1" user-agent="lookplay",Blaze
+https://blackghost.live/play/lookplay-330.php?name=blaze&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Viajar.es" group-title="MOVISTAR OP1" user-agent="lookplay",Viajar
+https://blackghost.live/play/lookplay-330.php?name=viajar&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" user-agent="lookplay",Crimen Investigaci\u00f3n
+https://blackghost.live/play/lookplay-330.php?name=crimen_investigacion&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR OP1" user-agent="lookplay",Casa y Cocina
+https://blackghost.live/play/lookplay-330.php?name=canal_cocina&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Decasa.es" group-title="MOVISTAR OP1" user-agent="lookplay",De Casa
+https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" user-agent="lookplay",IBERALIA
+https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8|User-Agent=lookplay
+
+://blackghost.live/play/lookplay-330.php?name=canal_cocina&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="Decasa.es" group-title="MOVISTAR OP1" user-agent="lookplay",De Casa
+https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=lookplay
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" user-agent="lookplay",IBERALIA
+https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8|User-Agent=lookplay
+
+
